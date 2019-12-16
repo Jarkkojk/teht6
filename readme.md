@@ -1,4 +1,5 @@
 # GIT-TREENI
+
 ## Tehtävä 6
 
 Gitti/md treeniä
@@ -9,7 +10,10 @@ Repository osoite: git@github.com:Jarkkojk/teht6.git
 
 Repository voidaan kloonata komennolla
 
-``` git clone git@github.com:Jarkkojk/teht6.git ```
+`git clone git@github.com:Jarkkojk/teht6.git`
+
+Jos käytetään HTTPS-protokollaata, silloin kopiointi tapahtuu komennolla:
+
+`git clone https://github.com/Jarkkojk/teht6.git`
 
 ### lisäilen vähän developin developpiin
-
