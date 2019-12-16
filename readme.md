@@ -10,3 +10,6 @@ Repository osoite: git@github.com:Jarkkojk/teht6.git
 Repository voidaan kloonata komennolla
 
 ``` git clone git@github.com:Jarkkojk/teht6.git ```
+
+### lisäilen vähän developin developpiin
+
